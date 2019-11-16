@@ -1,4 +1,4 @@
-.set GIT=https://bitbucket.org/shishirpy/gitdown_test
+.set GIT=https://github.com/shishirpy/gitdown_test
 .sub 0MQ=ØMQ
 
 0MQ - The Guide
